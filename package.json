@@ -1,0 +1,8 @@
+{
+  "name": "redux-window-middleware",
+  "version": "1.0.0",
+  "description": "A Redux middleware function for sending actions to other windows. Useful for micro front-ends.",
+  "main": "index.js",
+  "author": "Daniel Lowman",
+  "license": "MIT"
+}
